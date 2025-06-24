@@ -1,4 +1,4 @@
-# parseroz v1.0.0-alpha
+# parseroz v1.0.1-alpha
 
 Получение данных о товарах Ozon с использованием Symfony Panther.
 
