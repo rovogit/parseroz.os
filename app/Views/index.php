@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-<h1>parseroz v1.0.0-alpha</h1>
+<h1>parseroz v1.0.1-alpha</h1>
 
 <form method="post" action="/parse">
     <label for="url">URL товара:</label>
